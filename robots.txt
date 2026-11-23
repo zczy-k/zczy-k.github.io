@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xn--p8s370b.cc.cd/sitemap.xml
